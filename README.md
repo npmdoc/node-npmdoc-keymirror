@@ -1,6 +1,6 @@
 # npmdoc-keymirror
 
-#### api documentation for  [keymirror (v0.1.1)](https://github.com/STRML/keyMirror)  [![npm package](https://img.shields.io/npm/v/npmdoc-keymirror.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-keymirror) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-keymirror.svg)](https://travis-ci.org/npmdoc/node-npmdoc-keymirror)
+#### basic api documentation for  [keymirror (v0.1.1)](https://github.com/STRML/keyMirror)  [![npm package](https://img.shields.io/npm/v/npmdoc-keymirror.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-keymirror) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-keymirror.svg)](https://travis-ci.org/npmdoc/node-npmdoc-keymirror)
 
 #### A simple utility for creating an object with values equal to its keys. Identical to react/lib/keyMirror
 
@@ -57,7 +57,8 @@
         "url": "git+https://github.com/STRML/keyMirror.git"
     },
     "scripts": {},
-    "version": "0.1.1"
+    "version": "0.1.1",
+    "bin": {}
 }
 ```
 
